@@ -1,6 +1,6 @@
-### Projeto_07
+### Landing Page Bootstrap
 
-O Projeto_07 foi desenvolvido com HTML5 e CSS3 com o objetivo de demostrar meu aprendizado.
+A Landing Page Bootstrap foi desenvolvida com HTML5 e CSS3 e Bootstrap com o objetivo de demostrar meu aprendizado.
 
 ![Screenshot](Projeto07.gif)
 
